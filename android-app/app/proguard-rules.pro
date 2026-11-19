@@ -1,0 +1,3 @@
+-keep class com.qurantajweed.app.** { *; }
+-dontwarn kotlin.**
+-dontwarn kotlinx.**
