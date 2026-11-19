@@ -1,0 +1,3 @@
+-keep class com.quranwbw.portable.** { *; }
+-dontwarn kotlin.**
+-dontwarn kotlinx.**
